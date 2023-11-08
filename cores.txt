@@ -1,0 +1,28 @@
+Tabela de Cores para o Site de Vôlei:
+
+1. Tabela de Jogos:
+   - Cor de Fundo: #333333 (Cinza escuro)
+   - Texto: #FFFFFF (Branco)
+   - Linhas Alternadas (para facilitar a leitura): #444444 (Cinza mais escuro)
+   - Realce para Destaque: #FFD700 (Amarelo ouro)
+
+2. Jogos Futuros:
+   - Cor de Fundo: #0055FF (Azul intenso)
+   - Texto: #FFFFFF (Branco)
+
+3. Ligas:
+   - Cor de Fundo: #00A86B (Verde escuro)
+   - Texto: #FFFFFF (Branco)
+
+4. Prêmios:
+   - Cor de Fundo: #FF4500 (Laranja escuro)
+   - Texto: #FFFFFF (Branco)
+
+5. Barra de Navegação:
+   - Cor de Fundo: #333333 (Cinza escuro)
+   - Texto: #FFFFFF (Branco)
+   - Destaque ao Passar o Mouse: #FFD700 (Amarelo ouro)
+
+6. Rodapé:
+   - Cor de Fundo: #333333 (Cinza escuro)
+   - Texto: #FFFFFF (Branco)
